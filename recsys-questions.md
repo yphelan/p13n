@@ -1,5 +1,5 @@
 # Questions to ask about your Recommender Systems
-So, you're building a Recommender System that connects your users with the right content on your platform. Consider asking these practical questions that can help avoid costly mistakes and build user trust with your RecSys.
+So, you're building a Recommender System that connects your users with the right content on your platform. Consider asking these practical questions that can help avoid costly mistakes and help you build user trust with your RecSys.
 
 ## Content Related Questions
 Content understanding in the context of Recommender Systems refers to the process of extracting and interpreting meaningful data from the content itself, which is then used to inform the recommendations. This is an essential part of building effective recommendation algorithms that can provide relevant, personalized content for users. Here are a few practical questions to ask about your content:
@@ -40,7 +40,7 @@ User understanding in the context of Recommender Systems refers to the system's 
 
 **Question 13: Does your UI allow for creating different surfaces for different user intent?** Understanding _user intent_ is the holy grail of Recommender Systems. User intent could change from day-to-day, session-to-session or even second-to-second. It's hard to tell if the user is in a discovery mode (_they want new things_) or if they want the same old content they've been consuming. One way to address this via UI/UX, is by providing prominent surfaces tailored to different user intent. Common examples are:
  * A _search bar_ at the top of the home page, so users can quickly search exactly what they want.
- * A _Recently Viewed_ section, so users can quickly jump back into previous content.
+ * A _Recently Viewed_ section, so users can quickly jump back into familiar content.
  * An _explore tab_, so users can be exposed to new or related content. etc.
 
 ## Business Related Questions
